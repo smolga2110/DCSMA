@@ -1,0 +1,107 @@
+[
+  {
+    "project": "m4t03",
+    "file": "Модуль_4\\Задание_03\\apk\\m4t03-debug.apk",
+    "sha256": "e671e0937c5d2fd442f351be5770173930d913a83fe16dfdcddd7700b53823c3"
+  },
+  {
+    "project": "m4t04",
+    "file": "Модуль_4\\Задание_04\\apk\\m4t04-debug.apk",
+    "sha256": "1b144df4e18cae45840c48e886e51af7a851b5dee5fbf64197d4f8973a84a760"
+  },
+  {
+    "project": "m4t05",
+    "file": "Модуль_4\\Задание_05\\apk\\m4t05-debug.apk",
+    "sha256": "62653ad36426c7db8f7af023c71f9c0ffc09fed2ced0aff814f0bfc432a975af"
+  },
+  {
+    "project": "m4t06",
+    "file": "Модуль_4\\Задание_06\\apk\\m4t06-debug.apk",
+    "sha256": "8ae2edfc58030ea2ea16ad3172b2feedef5be905f8c7653ea6888f24e6e69696"
+  },
+  {
+    "project": "m4t07",
+    "file": "Модуль_4\\Задание_07\\apk\\m4t07-debug.apk",
+    "sha256": "1b680b338a486f089e51ca24bf54e5a9baedd0ab69792e4edb47b078a81005b7"
+  },
+  {
+    "project": "m4t08",
+    "file": "Модуль_4\\Задание_08\\apk\\m4t08-debug.apk",
+    "sha256": "8b10f7ac409c297084c047dd41ad75a73a5d7edb7f2d371b8f8ff0857b1c0437"
+  },
+  {
+    "project": "m4t09",
+    "file": "Модуль_4\\Задание_09\\apk\\m4t09-debug.apk",
+    "sha256": "763569501d02efa6dca90d95d184af9e41f64bb6f27a4baf444f2503595b4b92"
+  },
+  {
+    "project": "m4t10",
+    "file": "Модуль_4\\Задание_10\\apk\\m4t10-debug.apk",
+    "sha256": "a72498c7943dca97a98a5e7af7ffc42372be96081a9d4dba2322e7c61abb43a3"
+  },
+  {
+    "project": "m4t11",
+    "file": "Модуль_4\\Задание_11\\apk\\m4t11-debug.apk",
+    "sha256": "b646d886c94d1c0b5b3b0c7e37c08daeddb2335177c013253fd76c7a1f616392"
+  },
+  {
+    "project": "m4t12",
+    "file": "Модуль_4\\Задание_12\\apk\\m4t12-debug.apk",
+    "sha256": "6548153ce53c1b4ec7578968d41c464bc9b751ac4935fa46b8e4e606b6f7222e"
+  },
+  {
+    "project": "m4t13",
+    "file": "Модуль_4\\Задание_13\\apk\\m4t13-debug.apk",
+    "sha256": "a366fa5bb2160598fa3cfa3f4afc8ccbfb902e674d98ea33af2ac3f16a955d61"
+  },
+  {
+    "project": "m4t14",
+    "file": "Модуль_4\\Задание_14\\apk\\m4t14-debug.apk",
+    "sha256": "bd847c08129473016b8d21ca4b05dcf2e797c66fd5df6870b630722c2e673053"
+  },
+  {
+    "project": "m5t01",
+    "file": "Модуль_5\\Задание_01\\apk\\m5t01-debug.apk",
+    "sha256": "df177fe81f2b9aec330a58e84deddd2286d4e4d1f9b7015f23b7f77c1f375d3e"
+  },
+  {
+    "project": "m5t02",
+    "file": "Модуль_5\\Задание_02\\apk\\m5t02-debug.apk",
+    "sha256": "3b1cd50bc1e00be674c8c76d3d1fd07530e6b54f9e7ee8971220cc5473c739b8"
+  },
+  {
+    "project": "m5t03",
+    "file": "Модуль_5\\Задание_03\\apk\\m5t03-debug.apk",
+    "sha256": "09a013e2c1f1012cc3acb400deace04943f25ff6bad68ee0fe1bd17d804b0baf"
+  },
+  {
+    "project": "m5t04",
+    "file": "Модуль_5\\Задание_04\\apk\\m5t04-debug.apk",
+    "sha256": "b77a87ef205ab6810fbd42b90b018fa983ade7744d6e17612f63c9cfe6ece578"
+  },
+  {
+    "project": "m6t01",
+    "file": "Модуль_6\\Задание_01\\apk\\m6t01-debug.apk",
+    "sha256": "03165bd7c02ef61664a8860797cf69cacafcde7e0606875ba2b105a269543fb6"
+  },
+  {
+    "project": "m6t02",
+    "file": "Модуль_6\\Задание_02\\apk\\m6t02-debug.apk",
+    "sha256": "fddddeeebfffb66576f35db0392851887b619f33cad537e0038df57607b9b71a"
+  },
+  {
+    "project": "m6t03",
+    "file": "Модуль_6\\Задание_03\\apk\\m6t03-debug.apk",
+    "sha256": "2993b9f35aaef733be92d6f7bf3c7e88439566c45c5572acf58631c60c0b40fd"
+  },
+  {
+    "project": "m6t06",
+    "file": "Модуль_6\\Задание_06\\apk\\m6t06-debug.apk",
+    "sha256": "5226b20eb1defae5899c3bf8eccada30c8e195c4377abaf64c921ba884d6fc52"
+  },
+  {
+    "project": "m6t07",
+    "file": "Модуль_6\\Задание_07\\apk\\m6t07-debug.apk",
+    "sha256": "ccd2312296e6923ad0ec3e73e6e739b85b00cddd45312e71aa3b7e778f9efd8a"
+  }
+]

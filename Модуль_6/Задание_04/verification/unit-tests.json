@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-10",
+  "suites": [
+    {
+      "name": "edu.practice.ServerTest",
+      "tests": "2",
+      "skipped": "0",
+      "failures": "0",
+      "errors": "0"
+    }
+  ]
+}

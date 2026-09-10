@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS users(id BIGSERIAL PRIMARY KEY,username TEXT UNIQUE NOT NULL,password_hash TEXT NOT NULL,role TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS prizes(id TEXT PRIMARY KEY,award_year INTEGER NOT NULL,category TEXT NOT NULL,UNIQUE(award_year,category));
+CREATE TABLE IF NOT EXISTS laureates(prize_id TEXT NOT NULL REFERENCES prizes(id) ON DELETE CASCADE,id TEXT NOT NULL,full_name TEXT NOT NULL,motivation TEXT NOT NULL,portion TEXT NOT NULL,birth_country TEXT NOT NULL DEFAULT '',portrait_url TEXT NOT NULL DEFAULT '',PRIMARY KEY(prize_id,id));
+CREATE TABLE IF NOT EXISTS user_prizes(user_id BIGINT REFERENCES users(id) ON DELETE CASCADE,prize_id TEXT REFERENCES prizes(id) ON DELETE CASCADE,added_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),PRIMARY KEY(user_id,prize_id));
+CREATE INDEX IF NOT EXISTS prizes_year_category ON prizes(award_year,category);

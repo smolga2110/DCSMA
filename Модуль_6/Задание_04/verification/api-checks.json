@@ -1,0 +1,72 @@
+[
+  {
+    "check": "Health",
+    "status": 200,
+    "result": "PASS"
+  },
+  {
+    "check": "Unauthorized profile",
+    "status": 401,
+    "result": "PASS"
+  },
+  {
+    "check": "Wrong password",
+    "status": 401,
+    "result": "PASS"
+  },
+  {
+    "check": "Login",
+    "status": 200,
+    "result": "PASS"
+  },
+  {
+    "check": "List access policy",
+    "status": 401,
+    "result": "PASS"
+  },
+  {
+    "check": "Authorized prizes",
+    "status": 200,
+    "result": "PASS"
+  },
+  {
+    "check": "Prize detail",
+    "status": 200,
+    "result": "PASS"
+  },
+  {
+    "check": "Invalid year",
+    "status": 400,
+    "result": "PASS"
+  },
+  {
+    "check": "Unknown prize",
+    "status": 404,
+    "result": "PASS"
+  },
+  {
+    "check": "Add favorite",
+    "status": 201,
+    "result": "PASS"
+  },
+  {
+    "check": "Idempotent favorite",
+    "status": 201,
+    "result": "PASS"
+  },
+  {
+    "check": "Read favorites",
+    "status": 200,
+    "result": "PASS"
+  },
+  {
+    "check": "Remove favorite",
+    "status": 204,
+    "result": "PASS"
+  },
+  {
+    "check": "OpenAPI",
+    "status": 200,
+    "result": "PASS"
+  }
+]

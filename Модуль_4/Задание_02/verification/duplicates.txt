@@ -1,0 +1,4 @@
+SHA-256: 8e53b19864085420d1b70478dd6241c5e3614cf8b557c3cee80e8a2cccf254e6
+C:\Users\Admin\Desktop\VUZ\Разработка мобильных приложений\Модуль_4\Задание_02\samples\a.json
+C:\Users\Admin\Desktop\VUZ\Разработка мобильных приложений\Модуль_4\Задание_02\samples\nested\copy.json
+

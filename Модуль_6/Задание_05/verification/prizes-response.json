@@ -1,0 +1,132 @@
+[
+  {
+    "id": "2023-chemistry",
+    "year": 2023,
+    "category": "chemistry",
+    "laureates": [
+      {
+        "id": "1029",
+        "fullName": "Moungi G. Bawendi",
+        "motivation": "for the discovery and synthesis of quantum dots",
+        "portion": "1/3",
+        "birthCountry": "France",
+        "portraitUrl": ""
+      },
+      {
+        "id": "1030",
+        "fullName": "Louis E. Brus",
+        "motivation": "for the discovery and synthesis of quantum dots",
+        "portion": "1/3",
+        "birthCountry": "USA",
+        "portraitUrl": ""
+      },
+      {
+        "id": "1031",
+        "fullName": "Aleksey Yekimov ",
+        "motivation": "for the discovery and synthesis of quantum dots",
+        "portion": "1/3",
+        "birthCountry": "USSR",
+        "portraitUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "2023-economics",
+    "year": 2023,
+    "category": "economics",
+    "laureates": [
+      {
+        "id": "1034",
+        "fullName": "Claudia Goldin",
+        "motivation": "for having advanced our understanding of women’s labour market outcomes",
+        "portion": "1",
+        "birthCountry": "USA",
+        "portraitUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "2023-literature",
+    "year": 2023,
+    "category": "literature",
+    "laureates": [
+      {
+        "id": "1032",
+        "fullName": "Jon Fosse",
+        "motivation": "for his innovative plays and prose which give voice to the unsayable",
+        "portion": "1",
+        "birthCountry": "Norway",
+        "portraitUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "2023-medicine",
+    "year": 2023,
+    "category": "medicine",
+    "laureates": [
+      {
+        "id": "1024",
+        "fullName": "Katalin Karikó",
+        "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
+        "portion": "1/2",
+        "birthCountry": "Hungary",
+        "portraitUrl": ""
+      },
+      {
+        "id": "1025",
+        "fullName": "Drew Weissman",
+        "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
+        "portion": "1/2",
+        "birthCountry": "USA",
+        "portraitUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "2023-peace",
+    "year": 2023,
+    "category": "peace",
+    "laureates": [
+      {
+        "id": "1033",
+        "fullName": "Narges Mohammadi",
+        "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all",
+        "portion": "1",
+        "birthCountry": "Iran",
+        "portraitUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "2023-physics",
+    "year": 2023,
+    "category": "physics",
+    "laureates": [
+      {
+        "id": "1026",
+        "fullName": "Pierre Agostini",
+        "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+        "portion": "1/3",
+        "birthCountry": "French protectorate of Tunisia",
+        "portraitUrl": ""
+      },
+      {
+        "id": "1027",
+        "fullName": "Ferenc Krausz",
+        "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+        "portion": "1/3",
+        "birthCountry": "Hungary",
+        "portraitUrl": ""
+      },
+      {
+        "id": "1028",
+        "fullName": "Anne L’Huillier",
+        "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+        "portion": "1/3",
+        "birthCountry": "France",
+        "portraitUrl": ""
+      }
+    ]
+  }
+]

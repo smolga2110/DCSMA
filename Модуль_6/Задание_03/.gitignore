@@ -1,0 +1,12 @@
+# Local secrets and machine settings
+.env
+.env.*
+!.env.example
+local.properties
+.gradle/
+.kotlin/
+**/build/
+.idea/
+*.iml
+# Compiled deliverables (source stays in Git)
+apk/

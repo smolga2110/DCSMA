@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "full_name": "android/compose-sample-1",
+    "description": "Учебный пример 1 — Мобильный интерфейс",
+    "stargazers_count": 137,
+    "language": "Java"
+  },
+  {
+    "id": 2,
+    "full_name": "kotlin-labs/coroutines-sample-2",
+    "description": "Учебный пример 2 — Хранение данных",
+    "stargazers_count": 274,
+    "language": "Python"
+  },
+  {
+    "id": 3,
+    "full_name": "study/room-sample-3",
+    "description": "Учебный пример 3 — Асинхронная обработка",
+    "stargazers_count": 411,
+    "language": "Kotlin"
+  },
+  {
+    "id": 4,
+    "full_name": "JetBrains/ktor-sample-4",
+    "description": "Учебный пример 4 — Мобильный интерфейс",
+    "stargazers_count": 548,
+    "language": "Java"
+  },
+  {
+    "id": 5,
+    "full_name": "android/kotlin-sample-5",
+    "description": "Учебный пример 5 — Хранение данных",
+    "stargazers_count": 685,
+    "language": "Python"
+  },
+  {
+    "id": 6,
+    "full_name": "kotlin-labs/compose-sample-6",
+    "description": "Учебный пример 6 — Асинхронная обработка",
+    "stargazers_count": 822,
+    "language": "Kotlin"
+  },
+  {
+    "id": 7,
+    "full_name": "study/coroutines-sample-7",
+    "description": "Учебный пример 7 — Мобильный интерфейс",
+    "stargazers_count": 959,
+    "language": "Java"
+  },
+  {
+    "id": 8,
+    "full_name": "JetBrains/room-sample-8",
+    "description": "Учебный пример 8 — Хранение данных",
+    "stargazers_count": 1096,
+    "language": "Python"
+  },
+  {
+    "id": 9,
+    "full_name": "android/ktor-sample-9",
+    "description": "Учебный пример 9 — Асинхронная обработка",
+    "stargazers_count": 1233,
+    "language": "Kotlin"
+  },
+  {
+    "id": 10,
+    "full_name": "kotlin-labs/kotlin-sample-10",
+    "description": "Учебный пример 10 — Мобильный интерфейс",
+    "stargazers_count": 1370,
+    "language": "Java"
+  },
+  {
+    "id": 11,
+    "full_name": "study/compose-sample-11",
+    "description": "Учебный пример 11 — Хранение данных",
+    "stargazers_count": 1507,
+    "language": "Python"
+  },
+  {
+    "id": 12,
+    "full_name": "JetBrains/coroutines-sample-12",
+    "description": "Учебный пример 12 — Асинхронная обработка",
+    "stargazers_count": 1644,
+    "language": "Kotlin"
+  },
+  {
+    "id": 13,
+    "full_name": "android/room-sample-13",
+    "description": "Учебный пример 13 — Мобильный интерфейс",
+    "stargazers_count": 1781,
+    "language": "Java"
+  },
+  {
+    "id": 14,
+    "full_name": "kotlin-labs/ktor-sample-14",
+    "description": "Учебный пример 14 — Хранение данных",
+    "stargazers_count": 1918,
+    "language": "Python"
+  },
+  {
+    "id": 15,
+    "full_name": "study/kotlin-sample-15",
+    "description": "Учебный пример 15 — Асинхронная обработка",
+    "stargazers_count": 2055,
+    "language": "Kotlin"
+  },
+  {
+    "id": 16,
+    "full_name": "JetBrains/compose-sample-16",
+    "description": "Учебный пример 16 — Мобильный интерфейс",
+    "stargazers_count": 2192,
+    "language": "Java"
+  },
+  {
+    "id": 17,
+    "full_name": "android/coroutines-sample-17",
+    "description": "Учебный пример 17 — Хранение данных",
+    "stargazers_count": 2329,
+    "language": "Python"
+  },
+  {
+    "id": 18,
+    "full_name": "kotlin-labs/room-sample-18",
+    "description": "Учебный пример 18 — Асинхронная обработка",
+    "stargazers_count": 2466,
+    "language": "Kotlin"
+  },
+  {
+    "id": 19,
+    "full_name": "study/ktor-sample-19",
+    "description": "Учебный пример 19 — Мобильный интерфейс",
+    "stargazers_count": 2603,
+    "language": "Java"
+  },
+  {
+    "id": 20,
+    "full_name": "JetBrains/kotlin-sample-20",
+    "description": "Учебный пример 20 — Хранение данных",
+    "stargazers_count": 2740,
+    "language": "Python"
+  },
+  {
+    "id": 21,
+    "full_name": "android/compose-sample-21",
+    "description": "Учебный пример 21 — Асинхронная обработка",
+    "stargazers_count": 2877,
+    "language": "Kotlin"
+  },
+  {
+    "id": 22,
+    "full_name": "kotlin-labs/coroutines-sample-22",
+    "description": "Учебный пример 22 — Мобильный интерфейс",
+    "stargazers_count": 3014,
+    "language": "Java"
+  },
+  {
+    "id": 23,
+    "full_name": "study/room-sample-23",
+    "description": "Учебный пример 23 — Хранение данных",
+    "stargazers_count": 3151,
+    "language": "Python"
+  },
+  {
+    "id": 24,
+    "full_name": "JetBrains/ktor-sample-24",
+    "description": "Учебный пример 24 — Асинхронная обработка",
+    "stargazers_count": 3288,
+    "language": "Kotlin"
+  },
+  {
+    "id": 25,
+    "full_name": "android/kotlin-sample-25",
+    "description": "Учебный пример 25 — Мобильный интерфейс",
+    "stargazers_count": 3425,
+    "language": "Java"
+  },
+  {
+    "id": 26,
+    "full_name": "kotlin-labs/compose-sample-26",
+    "description": "Учебный пример 26 — Хранение данных",
+    "stargazers_count": 3562,
+    "language": "Python"
+  },
+  {
+    "id": 27,
+    "full_name": "study/coroutines-sample-27",
+    "description": "Учебный пример 27 — Асинхронная обработка",
+    "stargazers_count": 3699,
+    "language": "Kotlin"
+  },
+  {
+    "id": 28,
+    "full_name": "JetBrains/room-sample-28",
+    "description": "Учебный пример 28 — Мобильный интерфейс",
+    "stargazers_count": 3836,
+    "language": "Java"
+  },
+  {
+    "id": 29,
+    "full_name": "android/ktor-sample-29",
+    "description": "Учебный пример 29 — Хранение данных",
+    "stargazers_count": 3973,
+    "language": "Python"
+  },
+  {
+    "id": 30,
+    "full_name": "kotlin-labs/kotlin-sample-30",
+    "description": "Учебный пример 30 — Асинхронная обработка",
+    "stargazers_count": 4110,
+    "language": "Kotlin"
+  },
+  {
+    "id": 31,
+    "full_name": "study/compose-sample-31",
+    "description": "Учебный пример 31 — Мобильный интерфейс",
+    "stargazers_count": 4247,
+    "language": "Java"
+  },
+  {
+    "id": 32,
+    "full_name": "JetBrains/coroutines-sample-32",
+    "description": "Учебный пример 32 — Хранение данных",
+    "stargazers_count": 4384,
+    "language": "Python"
+  },
+  {
+    "id": 33,
+    "full_name": "android/room-sample-33",
+    "description": "Учебный пример 33 — Асинхронная обработка",
+    "stargazers_count": 4521,
+    "language": "Kotlin"
+  },
+  {
+    "id": 34,
+    "full_name": "kotlin-labs/ktor-sample-34",
+    "description": "Учебный пример 34 — Мобильный интерфейс",
+    "stargazers_count": 4658,
+    "language": "Java"
+  },
+  {
+    "id": 35,
+    "full_name": "study/kotlin-sample-35",
+    "description": "Учебный пример 35 — Хранение данных",
+    "stargazers_count": 4795,
+    "language": "Python"
+  },
+  {
+    "id": 36,
+    "full_name": "JetBrains/compose-sample-36",
+    "description": "Учебный пример 36 — Асинхронная обработка",
+    "stargazers_count": 4932,
+    "language": "Kotlin"
+  },
+  {
+    "id": 37,
+    "full_name": "android/coroutines-sample-37",
+    "description": "Учебный пример 37 — Мобильный интерфейс",
+    "stargazers_count": 5069,
+    "language": "Java"
+  },
+  {
+    "id": 38,
+    "full_name": "kotlin-labs/room-sample-38",
+    "description": "Учебный пример 38 — Хранение данных",
+    "stargazers_count": 5206,
+    "language": "Python"
+  },
+  {
+    "id": 39,
+    "full_name": "study/ktor-sample-39",
+    "description": "Учебный пример 39 — Асинхронная обработка",
+    "stargazers_count": 5343,
+    "language": "Kotlin"
+  },
+  {
+    "id": 40,
+    "full_name": "JetBrains/kotlin-sample-40",
+    "description": "Учебный пример 40 — Мобильный интерфейс",
+    "stargazers_count": 5480,
+    "language": "Java"
+  },
+  {
+    "id": 41,
+    "full_name": "android/compose-sample-41",
+    "description": "Учебный пример 41 — Хранение данных",
+    "stargazers_count": 5617,
+    "language": "Python"
+  },
+  {
+    "id": 42,
+    "full_name": "kotlin-labs/coroutines-sample-42",
+    "description": "Учебный пример 42 — Асинхронная обработка",
+    "stargazers_count": 5754,
+    "language": "Kotlin"
+  },
+  {
+    "id": 43,
+    "full_name": "study/room-sample-43",
+    "description": "Учебный пример 43 — Мобильный интерфейс",
+    "stargazers_count": 5891,
+    "language": "Java"
+  },
+  {
+    "id": 44,
+    "full_name": "JetBrains/ktor-sample-44",
+    "description": "Учебный пример 44 — Хранение данных",
+    "stargazers_count": 6028,
+    "language": "Python"
+  },
+  {
+    "id": 45,
+    "full_name": "android/kotlin-sample-45",
+    "description": "Учебный пример 45 — Асинхронная обработка",
+    "stargazers_count": 6165,
+    "language": "Kotlin"
+  },
+  {
+    "id": 46,
+    "full_name": "kotlin-labs/compose-sample-46",
+    "description": "Учебный пример 46 — Мобильный интерфейс",
+    "stargazers_count": 6302,
+    "language": "Java"
+  },
+  {
+    "id": 47,
+    "full_name": "study/coroutines-sample-47",
+    "description": "Учебный пример 47 — Хранение данных",
+    "stargazers_count": 6439,
+    "language": "Python"
+  },
+  {
+    "id": 48,
+    "full_name": "JetBrains/room-sample-48",
+    "description": "Учебный пример 48 — Асинхронная обработка",
+    "stargazers_count": 6576,
+    "language": "Kotlin"
+  },
+  {
+    "id": 49,
+    "full_name": "android/ktor-sample-49",
+    "description": "Учебный пример 49 — Мобильный интерфейс",
+    "stargazers_count": 6713,
+    "language": "Java"
+  },
+  {
+    "id": 50,
+    "full_name": "kotlin-labs/kotlin-sample-50",
+    "description": "Учебный пример 50 — Хранение данных",
+    "stargazers_count": 6850,
+    "language": "Python"
+  },
+  {
+    "id": 51,
+    "full_name": "study/compose-sample-51",
+    "description": "Учебный пример 51 — Асинхронная обработка",
+    "stargazers_count": 6987,
+    "language": "Kotlin"
+  },
+  {
+    "id": 52,
+    "full_name": "JetBrains/coroutines-sample-52",
+    "description": "Учебный пример 52 — Мобильный интерфейс",
+    "stargazers_count": 7124,
+    "language": "Java"
+  },
+  {
+    "id": 53,
+    "full_name": "android/room-sample-53",
+    "description": "Учебный пример 53 — Хранение данных",
+    "stargazers_count": 7261,
+    "language": "Python"
+  },
+  {
+    "id": 54,
+    "full_name": "kotlin-labs/ktor-sample-54",
+    "description": "Учебный пример 54 — Асинхронная обработка",
+    "stargazers_count": 7398,
+    "language": "Kotlin"
+  },
+  {
+    "id": 55,
+    "full_name": "study/kotlin-sample-55",
+    "description": "Учебный пример 55 — Мобильный интерфейс",
+    "stargazers_count": 7535,
+    "language": "Java"
+  },
+  {
+    "id": 56,
+    "full_name": "JetBrains/compose-sample-56",
+    "description": "Учебный пример 56 — Хранение данных",
+    "stargazers_count": 7672,
+    "language": "Python"
+  },
+  {
+    "id": 57,
+    "full_name": "android/coroutines-sample-57",
+    "description": "Учебный пример 57 — Асинхронная обработка",
+    "stargazers_count": 7809,
+    "language": "Kotlin"
+  },
+  {
+    "id": 58,
+    "full_name": "kotlin-labs/room-sample-58",
+    "description": "Учебный пример 58 — Мобильный интерфейс",
+    "stargazers_count": 7946,
+    "language": "Java"
+  },
+  {
+    "id": 59,
+    "full_name": "study/ktor-sample-59",
+    "description": "Учебный пример 59 — Хранение данных",
+    "stargazers_count": 8083,
+    "language": "Python"
+  },
+  {
+    "id": 60,
+    "full_name": "JetBrains/kotlin-sample-60",
+    "description": "Учебный пример 60 — Асинхронная обработка",
+    "stargazers_count": 8220,
+    "language": "Kotlin"
+  },
+  {
+    "id": 61,
+    "full_name": "android/compose-sample-61",
+    "description": "Учебный пример 61 — Мобильный интерфейс",
+    "stargazers_count": 8357,
+    "language": "Java"
+  },
+  {
+    "id": 62,
+    "full_name": "kotlin-labs/coroutines-sample-62",
+    "description": "Учебный пример 62 — Хранение данных",
+    "stargazers_count": 8494,
+    "language": "Python"
+  },
+  {
+    "id": 63,
+    "full_name": "study/room-sample-63",
+    "description": "Учебный пример 63 — Асинхронная обработка",
+    "stargazers_count": 8631,
+    "language": "Kotlin"
+  },
+  {
+    "id": 64,
+    "full_name": "JetBrains/ktor-sample-64",
+    "description": "Учебный пример 64 — Мобильный интерфейс",
+    "stargazers_count": 8768,
+    "language": "Java"
+  },
+  {
+    "id": 65,
+    "full_name": "android/kotlin-sample-65",
+    "description": "Учебный пример 65 — Хранение данных",
+    "stargazers_count": 8905,
+    "language": "Python"
+  },
+  {
+    "id": 66,
+    "full_name": "kotlin-labs/compose-sample-66",
+    "description": "Учебный пример 66 — Асинхронная обработка",
+    "stargazers_count": 9042,
+    "language": "Kotlin"
+  },
+  {
+    "id": 67,
+    "full_name": "study/coroutines-sample-67",
+    "description": "Учебный пример 67 — Мобильный интерфейс",
+    "stargazers_count": 9179,
+    "language": "Java"
+  },
+  {
+    "id": 68,
+    "full_name": "JetBrains/room-sample-68",
+    "description": "Учебный пример 68 — Хранение данных",
+    "stargazers_count": 9316,
+    "language": "Python"
+  },
+  {
+    "id": 69,
+    "full_name": "android/ktor-sample-69",
+    "description": "Учебный пример 69 — Асинхронная обработка",
+    "stargazers_count": 9453,
+    "language": "Kotlin"
+  },
+  {
+    "id": 70,
+    "full_name": "kotlin-labs/kotlin-sample-70",
+    "description": "Учебный пример 70 — Мобильный интерфейс",
+    "stargazers_count": 9590,
+    "language": "Java"
+  },
+  {
+    "id": 71,
+    "full_name": "study/compose-sample-71",
+    "description": "Учебный пример 71 — Хранение данных",
+    "stargazers_count": 9727,
+    "language": "Python"
+  },
+  {
+    "id": 72,
+    "full_name": "JetBrains/coroutines-sample-72",
+    "description": "Учебный пример 72 — Асинхронная обработка",
+    "stargazers_count": 9864,
+    "language": "Kotlin"
+  },
+  {
+    "id": 73,
+    "full_name": "android/room-sample-73",
+    "description": "Учебный пример 73 — Мобильный интерфейс",
+    "stargazers_count": 10001,
+    "language": "Java"
+  },
+  {
+    "id": 74,
+    "full_name": "kotlin-labs/ktor-sample-74",
+    "description": "Учебный пример 74 — Хранение данных",
+    "stargazers_count": 10138,
+    "language": "Python"
+  },
+  {
+    "id": 75,
+    "full_name": "study/kotlin-sample-75",
+    "description": "Учебный пример 75 — Асинхронная обработка",
+    "stargazers_count": 10275,
+    "language": "Kotlin"
+  },
+  {
+    "id": 76,
+    "full_name": "JetBrains/compose-sample-76",
+    "description": "Учебный пример 76 — Мобильный интерфейс",
+    "stargazers_count": 10412,
+    "language": "Java"
+  },
+  {
+    "id": 77,
+    "full_name": "android/coroutines-sample-77",
+    "description": "Учебный пример 77 — Хранение данных",
+    "stargazers_count": 10549,
+    "language": "Python"
+  },
+  {
+    "id": 78,
+    "full_name": "kotlin-labs/room-sample-78",
+    "description": "Учебный пример 78 — Асинхронная обработка",
+    "stargazers_count": 10686,
+    "language": "Kotlin"
+  },
+  {
+    "id": 79,
+    "full_name": "study/ktor-sample-79",
+    "description": "Учебный пример 79 — Мобильный интерфейс",
+    "stargazers_count": 10823,
+    "language": "Java"
+  },
+  {
+    "id": 80,
+    "full_name": "JetBrains/kotlin-sample-80",
+    "description": "Учебный пример 80 — Хранение данных",
+    "stargazers_count": 10960,
+    "language": "Python"
+  },
+  {
+    "id": 81,
+    "full_name": "android/compose-sample-81",
+    "description": "Учебный пример 81 — Асинхронная обработка",
+    "stargazers_count": 11097,
+    "language": "Kotlin"
+  },
+  {
+    "id": 82,
+    "full_name": "kotlin-labs/coroutines-sample-82",
+    "description": "Учебный пример 82 — Мобильный интерфейс",
+    "stargazers_count": 11234,
+    "language": "Java"
+  },
+  {
+    "id": 83,
+    "full_name": "study/room-sample-83",
+    "description": "Учебный пример 83 — Хранение данных",
+    "stargazers_count": 11371,
+    "language": "Python"
+  },
+  {
+    "id": 84,
+    "full_name": "JetBrains/ktor-sample-84",
+    "description": "Учебный пример 84 — Асинхронная обработка",
+    "stargazers_count": 11508,
+    "language": "Kotlin"
+  },
+  {
+    "id": 85,
+    "full_name": "android/kotlin-sample-85",
+    "description": "Учебный пример 85 — Мобильный интерфейс",
+    "stargazers_count": 11645,
+    "language": "Java"
+  },
+  {
+    "id": 86,
+    "full_name": "kotlin-labs/compose-sample-86",
+    "description": "Учебный пример 86 — Хранение данных",
+    "stargazers_count": 11782,
+    "language": "Python"
+  },
+  {
+    "id": 87,
+    "full_name": "study/coroutines-sample-87",
+    "description": "Учебный пример 87 — Асинхронная обработка",
+    "stargazers_count": 11919,
+    "language": "Kotlin"
+  },
+  {
+    "id": 88,
+    "full_name": "JetBrains/room-sample-88",
+    "description": "Учебный пример 88 — Мобильный интерфейс",
+    "stargazers_count": 12056,
+    "language": "Java"
+  },
+  {
+    "id": 89,
+    "full_name": "android/ktor-sample-89",
+    "description": "Учебный пример 89 — Хранение данных",
+    "stargazers_count": 12193,
+    "language": "Python"
+  },
+  {
+    "id": 90,
+    "full_name": "kotlin-labs/kotlin-sample-90",
+    "description": "Учебный пример 90 — Асинхронная обработка",
+    "stargazers_count": 12330,
+    "language": "Kotlin"
+  },
+  {
+    "id": 91,
+    "full_name": "study/compose-sample-91",
+    "description": "Учебный пример 91 — Мобильный интерфейс",
+    "stargazers_count": 12467,
+    "language": "Java"
+  },
+  {
+    "id": 92,
+    "full_name": "JetBrains/coroutines-sample-92",
+    "description": "Учебный пример 92 — Хранение данных",
+    "stargazers_count": 12604,
+    "language": "Python"
+  },
+  {
+    "id": 93,
+    "full_name": "android/room-sample-93",
+    "description": "Учебный пример 93 — Асинхронная обработка",
+    "stargazers_count": 12741,
+    "language": "Kotlin"
+  },
+  {
+    "id": 94,
+    "full_name": "kotlin-labs/ktor-sample-94",
+    "description": "Учебный пример 94 — Мобильный интерфейс",
+    "stargazers_count": 12878,
+    "language": "Java"
+  },
+  {
+    "id": 95,
+    "full_name": "study/kotlin-sample-95",
+    "description": "Учебный пример 95 — Хранение данных",
+    "stargazers_count": 13015,
+    "language": "Python"
+  },
+  {
+    "id": 96,
+    "full_name": "JetBrains/compose-sample-96",
+    "description": "Учебный пример 96 — Асинхронная обработка",
+    "stargazers_count": 13152,
+    "language": "Kotlin"
+  },
+  {
+    "id": 97,
+    "full_name": "android/coroutines-sample-97",
+    "description": "Учебный пример 97 — Мобильный интерфейс",
+    "stargazers_count": 13289,
+    "language": "Java"
+  },
+  {
+    "id": 98,
+    "full_name": "kotlin-labs/room-sample-98",
+    "description": "Учебный пример 98 — Хранение данных",
+    "stargazers_count": 13426,
+    "language": "Python"
+  },
+  {
+    "id": 99,
+    "full_name": "study/ktor-sample-99",
+    "description": "Учебный пример 99 — Асинхронная обработка",
+    "stargazers_count": 13563,
+    "language": "Kotlin"
+  },
+  {
+    "id": 100,
+    "full_name": "JetBrains/kotlin-sample-100",
+    "description": "Учебный пример 100 — Мобильный интерфейс",
+    "stargazers_count": 13700,
+    "language": "Java"
+  }
+]

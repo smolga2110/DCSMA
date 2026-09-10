@@ -1,0 +1,4 @@
+allprojects {
+    def outputRoot = System.getenv('PRACTICE_BUILD_DIR') ?: new File(System.getProperty('java.io.tmpdir'), 'MobilePracticeBuild').absolutePath
+    layout.buildDirectory = new File(outputRoot, rootProject.name + '/' + project.name)
+}
